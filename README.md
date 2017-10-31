@@ -1,5 +1,5 @@
 # naziv projekta
 - projetnik zadatak SSSS Tehmeha
-- team members: Ime Prezime
+- team members: Ivan Buzuk, Filip Cvetkoviæ
 - programming language: C++
-- description: Opis
+- description: dodaju se novi racuni, podaci racuna, prikaz stanja racuna, promjena stanja racuna
